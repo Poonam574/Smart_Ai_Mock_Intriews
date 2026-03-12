@@ -1,0 +1,13 @@
+package com.SkillLens.SmartLMS;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SmartLmsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
